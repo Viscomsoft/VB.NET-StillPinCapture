@@ -1,0 +1,50 @@
+C:\ebook\new\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ebook\new\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ebook\new\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\ebook\new\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VIDEOCAPLib.dll
+C:\ebook\new\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.VIDEOCAPLib.dll
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.VIDEOCAPLib.dll
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.VIDEOCAPLib.dll
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\ebook\new\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.VIDEOCAPLib.dll
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.VIDEOCAPLib.dll
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VIDEOCAPLib.dll
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.VIDEOCAPLib.dll
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.VIDEOCAPLib.dll
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.VIDEOCAPLib.dll
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.VIDEOCAPLib.dll
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.VIDEOCAPLib.dll
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\test\email\videocappro\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.VIDEOCAPLib.dll
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.VIDEOCAPLib.dll
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Windows 10\Downloads\stillpin-snapshot (1)\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
